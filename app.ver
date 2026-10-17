@@ -3,14 +3,14 @@
   "androidUpdate": {
     "versionCode": 110,
     "versionName": "1.10.67",
-    "apkUrl": "https://raw.githubusercontent.com/mkshtofficial/BeedeokeHive-Android-Windows/releases/download/110/BeedeokeHive_v110.apk",
+    "apkUrl": "",
     "changelog": "test changelog",
     "forceUpdate": true
   },
   "windowsUpdate": {
     "versionCode": 14,
     "versionName": "1.4.0",
-    "apkUrl": "https://raw.githubusercontent.com/mkshtofficial/BeedeokeHive-Android-Windows/releases/download/14/BeedeokeHivePC_v14.exe",
+    "apkUrl": "https://github.com/mkshtofficial/BeedeokeHive-Windows/releases/download/1.5.46/BeedeokeHive-1.5.46-v15-win-x64-Setup.exe",
     "changelog": "",
     "forceUpdate": true
   }
